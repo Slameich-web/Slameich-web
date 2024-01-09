@@ -8,7 +8,7 @@ I have been developing for 6 years, including 4 years of commercial experience i
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [slamework@gmail.com](mailto:slamework@gmail.com)
-* 🚀  I'm currently working on [Easy Interview](http://github.com/it-vavilon/easy_interview)
+* 🚀  I'm currently working on [Easy Interview](http://github.com/it-vavilon/easy_interview) (PET PROJECT)
 * 🧠  I'm learning Developer Management, Agile, Optimizations in React and best practices in JavaScript
 * 🤝  I'm open to collaborating on фny interesting challenges and tasks related to UI development or web application optimization
 
