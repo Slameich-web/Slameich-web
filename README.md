@@ -6,7 +6,6 @@ Frontend Engineer
 
 I have been developing for 6 years, including 4 years of commercial experience in JavaScript using React. I manage a small team of Frontend developers, do mentoring and conduct technical interviews. I like to explore new technologies and learn something new about familiar technologies
 
-* 🌍  I'm based in Moscow
 * ✉️  You can contact me at [slamework@gmail.com](mailto:slamework@gmail.com)
 * 🧠  I'm learning Developer Management, Agile, Optimizations in React and best practices in JavaScript
 * 🤝  I'm open to collaborating on any interesting challenges and tasks related to UI development or web application optimization
